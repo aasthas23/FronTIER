@@ -1,4 +1,4 @@
-FronTIER iOS App
+FronTIER iOS App 
 
 FronTIER is an iOS app developed during the HackUTD (Ripple Effect Hackathon) along with my teammates (Sri Vattikuti, Arjun Argravat, Zora Lahlou), designed to enhance user connectivity management and support through innovative features like deep learning-based recommendations, troubleshooting chatbots, and augmented reality (AR) product visualization.
 Features
